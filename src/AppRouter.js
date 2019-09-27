@@ -13,7 +13,7 @@ function Users() {
     return <h2>Users</h2>;
 }
 function NotFound() {
-    return <h2>Not Found</h2>;
+    return <h2>Not Found!</h2>;
 }
 
 function AppRouter() {
