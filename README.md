@@ -1,3 +1,5 @@
+This is just a create react app with bootstrap, reactstrap, and react router added.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
